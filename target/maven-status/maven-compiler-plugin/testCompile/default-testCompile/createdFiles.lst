@@ -1,0 +1,4 @@
+com\example\nopcommerce\OrderTest.class
+com\example\nopcommerce\RegistrationTest.class
+com\example\nopcommerce\BeforeAll.class
+com\example\nopcommerce\ScreenRecorderUtil.class
